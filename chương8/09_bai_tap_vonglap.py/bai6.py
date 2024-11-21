@@ -1,3 +1,4 @@
+
 #Bài 6
 n= int(input("Nhập số nguyên dương n: "))
 for i in range(n):
@@ -6,3 +7,4 @@ for i in range(n):
         break
 else:
     print(f"{n} không là số chính phương")
+    
