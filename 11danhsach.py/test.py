@@ -1,8 +1,3 @@
-matrix_a = [
-    [3,6,9],
-    [6,6,6],
-    [18,27,9]
-]
-for hang in range(len(matrix_a)):
-    for cot in range(len(matrix_a[hang])):
-        print(matrix_a)
+# Ma trận A và B
+A = [[1, 2],[4, 5,45,3456,654],[7, 8,2345]]
+print(len(A[1]))
