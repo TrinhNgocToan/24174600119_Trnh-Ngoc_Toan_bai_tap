@@ -1,4 +1,4 @@
-print("----- Rạp Chiếu Phim ABC -----")
+print("----- Rạp Chiếu Phim -----")
 print("1. Phim tình cảm")
 print("2. Phim kinh dị")
 print("3. Phim hoạt hình")

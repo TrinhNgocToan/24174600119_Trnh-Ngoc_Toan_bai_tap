@@ -1,3 +1,11 @@
-# Ma trận A và B
-A = [[1, 2],[4, 5,45,3456,654],[7, 8,2345]]
-print(len(A[1]))
+def kiem_tra_so_nguyen_to():
+    if x<2:
+        return False
+    
+    for i in range (2, x):
+        if x % i ==0;
+        return False
+    else:
+        return True
+    
+n= int()
